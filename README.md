@@ -14,5 +14,7 @@ My future career plans start with getting an entry level business, data or finan
 
 ## Links:
 [Github](https://github.com/JamesRMullaney)
+
 [LinkedIn](https://www.linkedin.com/in/jrjmullaney/)
+
 [Medium (I post data visualizations there)](https://james-mullaney.medium.com/)
